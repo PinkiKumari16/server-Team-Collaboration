@@ -18,6 +18,9 @@ firebase-adminsdk.json   # Firebase Admin private key
 *.pem                    # Certificates
 *.crt
 
+node_modules/
+.env
+
 # ========================
 # Build & Generated Files
 # ========================
