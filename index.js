@@ -14,7 +14,7 @@ connectDB();
 
 // Allow multiple origins including Vercel preview deployments
 const allowedOrigins = [
-  "https://client-team-collaboration-evf9.vercel.app", // main deployed frontend
+  "https://client-team-collaboration-evf9.vercel.app/", // main deployed frontend
 ];
 
 // CORS middleware for HTTP
