@@ -25,7 +25,7 @@ const server = http.createServer(app);
 
 const io = new Server(server, {
   cors: {
-    origin: "https://client-team-collaboration-7jes.vercel.app",
+    origin: "https://client-team-collaboration.vercel.app",
     methods: ["GET", "POST"],
   },
 });
