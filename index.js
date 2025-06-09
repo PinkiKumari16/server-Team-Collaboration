@@ -1,5 +1,5 @@
 import express from "express";
-import http from "http"; // built-in
+import http from "http";
 import { Server } from "socket.io";
 import dotenv from "dotenv";
 import cors from "cors";
